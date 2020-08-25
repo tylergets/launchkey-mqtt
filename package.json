@@ -1,0 +1,22 @@
+{
+  "name": "launchkey-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node-dev index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vliegwerk/novation": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "mqtt": "^4.2.1"
+  },
+  "devDependencies": {
+    "node-dev": "^5.2.0"
+  },
+  "description": ""
+}
